@@ -1,0 +1,8 @@
+{
+  "name": "Remix Hệ thống Quản trị Lớp học - Nguyễn Công Lập",
+  "description": "Hệ thống quản trị lớp học dành cho giáo viên tiểu học Nguyễn Công Lập - Trường Tiểu học Nguyễn Hữu Dực. Quản lý lớp học, hồ sơ học sinh, điểm danh chuyên cần và theo dõi tiến độ học tập.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
